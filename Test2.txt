@@ -6,3 +6,4 @@ This is anthoer change
 
 Hello Git This is a new file
 
+Access git from win7
