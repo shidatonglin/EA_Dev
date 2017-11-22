@@ -6,3 +6,4 @@ This is anthoer change
 
 Hello Git
 
+Access git from win7
