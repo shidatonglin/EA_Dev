@@ -6,4 +6,8 @@ public class Test {
 		this.name = name;
 		this.age = age;
 	}
+
+	public static void main(){
+	
+	}
 }
