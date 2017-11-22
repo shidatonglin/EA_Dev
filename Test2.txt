@@ -1,2 +1,7 @@
 This is a second test class
+<<<<<<< HEAD
 Hello Git
+=======
+
+This is anthoer change
+>>>>>>> af699276d23f34fd98f14248739c181120b68a8d
