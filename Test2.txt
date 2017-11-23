@@ -4,4 +4,9 @@ This is a second test class
 This is anthoer change
 
 
+<<<<<<< HEAD
 Conflict 
+=======
+Hello Git
+
+>>>>>>> 28e853fa3d97a5cea1f37ddc160a0dbece350adc
