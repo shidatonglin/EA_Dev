@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "One",
+            "type": "shell",
+            "command": "echo Hello ",
+            "dependsOrder": "sequence",
+            "dependsOn":[
+                "Two",
+                "Three"
+            ]
+        },
+        {
+            "label": "Two",
+            "command": "echo This is two",
+            "type": "shell",
+        },
+        {
+            "label": "Three",
+            "command": "echo This is Three",
+            "type": "shell",
+        }
+    ]
+}
